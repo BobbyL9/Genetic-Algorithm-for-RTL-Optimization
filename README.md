@@ -12,7 +12,7 @@ Roadmap For Project:
 2. Attributes of HDL code that can be improved via algorithm
 3. Defining our success/failure conditions
 4. Traditional methods to improve each of those attributes
-5. How a genetic algorithm specifically would be helpful
+5. Why a genetic algorithm specifically would be helpful
 6. Method to implement the algorithm
 7. Creation of the algorithm
 8. Testing and results
