@@ -17,3 +17,7 @@ Roadmap For Project:
 7. Creation of the algorithm
 8. Testing and results
 9. Conclusions
+
+
+17 June 2025 Update:
+Finished "Definition of a Genetic Algorithm" Document added to repository.
