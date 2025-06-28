@@ -21,3 +21,6 @@ Roadmap For Project:
 
 17 June 2025 Update:
 Finished "Definition of a Genetic Algorithm" Document added to repository.
+
+28 June 2025 Update:
+Finished "Success and Failure Conditions" Document added to repository.
